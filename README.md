@@ -25,6 +25,9 @@ My VSCode Setup:
 - - [Inter Font](https://fonts.google.com/specimen/Inter)
 - Wallpaper:
 - - [Autumn Gradients](https://basicappleguy.com/basicappleblog/autumn-gradients)
+- Setup:
+- - [Keyboard > Keychron V1 Custom](https://www.keychron.com/products/keychron-v1-qmk-via-custom-mechanical-keyboard?variant=40026442432601)
+- - [Microphone > Elgato Wave:3](https://www.elgato.com/eu/de/p/wave-3-black)
 
 <br/>
 <p align="left"><a href="https://ko-fi.com/veelt"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="25" width="105" alt="veelt" /></a>
