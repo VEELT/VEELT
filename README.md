@@ -8,9 +8,11 @@
 
 <p align="center">
 -------- My VSCode Setup --------
-<p align="center">
-[My settings.json](https://amogus.com)
-</p>
+<center>
+
+[My settings.json](VSCode/settings.json)
+
+</center>
 </p>
 
 <br/>
