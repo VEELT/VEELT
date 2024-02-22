@@ -12,8 +12,12 @@ My VSCode Setup:
 
 [My settings.json](VSCode/settings.json)
 
+<br/>
+
 [Symbols Extension](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols)
+
 [Min Theme Extension](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.min-theme)
+
 [Apc Customize UI++ Extenion](https://marketplace.visualstudio.com/items?itemName=drcika.apc-extension)
 
 <br/>
