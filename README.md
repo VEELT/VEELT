@@ -8,7 +8,7 @@
 
 <p align="center">
 -------- My VSCode Setup --------
-<center>
+<center align="center">
 
 [My settings.json](VSCode/settings.json)
 
