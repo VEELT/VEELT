@@ -10,17 +10,21 @@
 My VSCode Setup:
 </h6>
 
-[My settings.json](VSCode/settings.json)
+![Screenshot](screenshot.png)
+- Configs:
+- - [My settings.json](VSCode/settings.json)
+- Extensions:
+- - [Symbols Extension](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols)
 
-<br/>
+- - [Min Theme Extension](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.min-theme)
 
-[Symbols Extension](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols)
+- - [Apc Customize UI++ Extenion](https://marketplace.visualstudio.com/items?itemName=drcika.apc-extension)
+- Fonts:
+- - [JetBrains Mono Font](https://www.jetbrains.com/de-de/lp/mono/)
 
-[Min Theme Extension](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.min-theme)
-
-[Apc Customize UI++ Extenion](https://marketplace.visualstudio.com/items?itemName=drcika.apc-extension)
-
-[JetBrains Mono Font](https://www.jetbrains.com/de-de/lp/mono/)
+- - [Inter Font](https://fonts.google.com/specimen/Inter)
+- Wallpaper:
+- - [Autumn Gradients](https://basicappleguy.com/basicappleblog/autumn-gradients)
 
 <br/>
 <p align="left"><a href="https://ko-fi.com/veelt"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="25" width="105" alt="veelt" /></a>
