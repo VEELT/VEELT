@@ -12,6 +12,10 @@ My VSCode Setup:
 
 [My settings.json](VSCode/settings.json)
 
+[Symbols Extension](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols)
+[Min Theme Extension](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.min-theme)
+[Apc Customize UI++ Extenion](https://marketplace.visualstudio.com/items?itemName=drcika.apc-extension)
+
 <br/>
 <p align="left"><a href="https://ko-fi.com/veelt"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="25" width="105" alt="veelt" /></a>
 </p>
