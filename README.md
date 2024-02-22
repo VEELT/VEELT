@@ -20,6 +20,8 @@ My VSCode Setup:
 
 [Apc Customize UI++ Extenion](https://marketplace.visualstudio.com/items?itemName=drcika.apc-extension)
 
+[JetBrains Mono Font](https://www.jetbrains.com/de-de/lp/mono/)
+
 <br/>
 <p align="left"><a href="https://ko-fi.com/veelt"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="25" width="105" alt="veelt" /></a>
 </p>
